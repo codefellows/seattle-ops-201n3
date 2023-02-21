@@ -28,4 +28,10 @@ whereami () {
 
 whereami
 
+# preview of an array
+
+myArray=("apple" "banana" "orange" "cherry" "mango")
+
+echo ${myArray[*]}
+
 # End

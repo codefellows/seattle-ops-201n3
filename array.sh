@@ -5,8 +5,9 @@
 # Date of latest revision:      
 # Purpose:                      write function that greets the current user and tells them what directory they're in
 
+# Declaration of variables
 
-# Main
+# Declaration of functions
 
 whereami () {
 
@@ -19,9 +20,12 @@ whereami () {
     echo "hi $user"
     echo "hey," $user "you are in" $dir
 
+    myVar="Is this working yet?"
+
 }
 
-whereami
+# Main
 
+whereami
 
 # End

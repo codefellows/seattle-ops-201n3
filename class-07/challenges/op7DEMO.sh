@@ -12,9 +12,11 @@
 # lshw | grep “bridge” 
 
 
-echo "Here is my network info"
+echo "Network info"
 echo $(lshw | grep -A10 "network")
 echo ""
-echo "Here is other info"
-#some command here
+echo "***CPU information****"
+echo $(lshw | grep -A7 -i "*-CPU") 
+echo "Script complete"
+
 

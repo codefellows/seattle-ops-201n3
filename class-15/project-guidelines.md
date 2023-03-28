@@ -29,7 +29,7 @@ Add your communication plan to your Group Agreement. Some things to consider:
 
 ## Project Scope
 
-Determine which features make up your minimum viable product (MVP). This should include any features you absolutely want to have in your application for presentation day.
+Determine which features make up your minimum viable product (MVP). This should include any features you absolutely want to have in your demo for presentation day.
 
 _Why:_
 > Scope creep can be dangerous! Keeping your project within a pre-determined scope will help the group stay on task without going off on tangents and side features.
@@ -66,10 +66,10 @@ During standup, each team member will stand up and take turns discussing three p
 
 ## Presentation Prep
 
-Your team should practice your presentation prior to the final presentation day. This is typically scheduled by the instructional team. During the practice presentation, the instructional team will provide constructive feedback about the flow of the presentation and appearance of the application.
+Your team should practice your presentation prior to the final presentation day. This is typically scheduled by the instructional team. During the practice presentation, the instructional team will provide constructive feedback about the flow of the presentation and appearance of the technical demonstration.
 
 _Why:_
-> If there are any issues in your final product's functionality or appearance, it is better to catch them ahead of time. This is also an opportunity to view the application as it will be shared with the audience. Evaluate any screen size issues, color changes due if you are projecting, and overall impact on the user's experience. The practice round will also allow the team to work on the flow of the presentation as speaking roles are passed from one member to another.
+> If there are any issues in your final product's functionality or appearance, it is better to catch them ahead of time. This is also an opportunity to view the technical demo as it will be shared with the audience. Evaluate any screen size issues, color changes due if you are projecting, and overall impact on the user's experience. The practice round will also allow the team to work on the flow of the presentation as speaking roles are passed from one member to another.
 
 Decide whose computer to use during the presentation and have that computer fully ready for practice session. Make sure you have any cables or adaptors needed, and know what settings are needed to share your screen (and audio, if relevant). Test this computer as the driver of the presentation BEFORE your practice. Test a backup computer as well, just in case.
 
@@ -81,7 +81,7 @@ Each member of the team must have a speaking part. It is okay to use note cards 
 * A demonstration of the final product: highlight your organization, functionality, and all deliverables from the requirements
 * The team's approach to planning and communication throughout the project
 * A technical obstacle or two and how those obstacles were overcome
-* A portion of the final application that each team member is particularly proud of
+* A portion of the final technical demonstration that each team member is particularly proud of
 
 The appropriate dress code is business casual - not too formal and not too casual.
 
@@ -126,7 +126,7 @@ Components of the presentation must include:
         * How will your MSP mitigate the risk of data loss on this new computer system? Your presentation should mention as well how you would perform a baremetal restoration if the OS were to be rendered inoperable.
     * C. Task automation
       * C1. The presentation must include a live technical demonstration of a shell scripting solution that automates repetitive or tedious processes.
-        * The team must create and submit at minimum one complete, working, and tested shell script.
+        * Each team member must create and submit one complete, working, and tested shell script.
 
 ### Deliverables
 
